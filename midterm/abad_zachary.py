@@ -12,7 +12,7 @@ def is_perfect(number: int, sigma: int) -> bool:
 def get_sum(divisors: list[int]) -> int:
       # TODO: return the sum of all divisors
 
-      #option1 : loop through each item on the list
+      #option 1 : loop through each item on the list
       #sigma = 0
       #for i in divisors:
       #   print(f"divisor is {i}")
