@@ -44,6 +44,7 @@ def main():
      # 04: call method get_divisors(midterm_number) and assign the returned value to a variable named divisors
      divisors = get_divisors(midterm_number)
      #05: print the value of variable divisors
+     print(f"divisors: {divisors}")
      #06: call method get_sum(divisors) and assign the returned value to a variable named sigma
      sigma = get_sum(divisors)
      #07: print the value of  variable sigma
