@@ -15,6 +15,8 @@ print("Axis: ")
 print("-" * 30)
 print("\n".join([country[1] for country in axis]))
 
+print()
+
 print("Allies: ")
 print("-" * 30)
 print("\n".join([country[1] for country in allies]))
